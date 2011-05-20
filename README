@@ -1,0 +1,6 @@
+This is a demo of the os.walk function in Python.
+Since it's a little confusing to figure out what the root, dirs, and files mean
+during each iteration of the function, I put together a simple filesystem
+display that prints the provided folder then all files and folders beneath it.
+
+Each subsequent layer is indented two spaces more than the layer above it.
